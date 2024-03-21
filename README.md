@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-<--!
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -73,8 +73,6 @@
   
   <br/><br/><br/>
 </div>
--->
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anvnh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
