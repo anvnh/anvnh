@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently studying in **VKU**
+ 🔭 I’m studying in **VKU** right now
  
  🌱 I’m currently learning **anything I can**
 
- ⚡ Fun fact **I like to do CP, play LOL and HSR**
+ ⚡ Fun fact **I like to do CP, play games (especially LOL)**
 
 </div>
 
