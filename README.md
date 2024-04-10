@@ -17,7 +17,7 @@
  🌱 I’m currently learning **anything I can**
 
  ⚡ Fun fact **I like to do CP, play games (especially LOL)**
-    <p class="font-size:10px"> 我爱着远方的一个人 </p>
+    <p class="font-size:5px"> 我爱着远方的一个人 </p>
 
 
 
