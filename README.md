@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m studying in **VKU** right now
+ 🔭 I’m studying in **VKU**
  
- 🌱 I’m currently learning **anything I can**
+ 🌱 I’m currently learning **how to code**
 
  ⚡ Fun fact **I like to do CP, play games (especially LOL)**
     <p class="font-size:5px"> 我爱着远方的一个人 </p>
