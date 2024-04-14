@@ -14,10 +14,11 @@
  
  🔭 I’m studying in **VKU**
  
- 🌱 I’m currently learning **how to code**
+ 🌱 I’m currently learning **things i like**
 
  ⚡ Fun fact **I like to do CP, play games (especially LOL)**
-    <p class="font-size:5px"> 我爱着远方的一个人 </p>
+  <p> " I met this girl under the scorching heat of summer, and my fate has begun to change" </p>
+  <p> " I hope you'll remember me, even just a little bit "</p>
 
 
 
