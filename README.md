@@ -16,12 +16,6 @@
  
  🌱 I’m currently learning **things i like**
 
- ⚡ Fun fact **I like to do CP, play games (especially LOL)**
-  <p> " I met this girl under the scorching heat of summer, and my fate has begun to change" </p>
-  <p> " I hope you'll remember me, even just a little bit "</p>
-
-
-
 </div>
 
 <div align="center"> 
