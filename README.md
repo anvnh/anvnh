@@ -15,6 +15,12 @@
 **<h3 align="left">Connect with me:</h3>** 
 <a href="https://www.linkedin.com/in/anvnh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/anvnh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codeforces.com/profile/anvnh" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/anvnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anvnh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anvnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anvnh" height="30" width="40" /></a>
+</p>
+
  **<h3 align="left">🚀 Passionate computer science student. Decent knowledge about front-end, back-end, competitive programming and game engine, with a keen eye for user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
