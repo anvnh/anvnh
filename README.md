@@ -44,10 +44,7 @@
   />
 </p>
 
-
-## My GitHub Breakout Game 🎮
-
-![Game](output/dark.svg)
+![Dark.svg](output/dark.svg)
 
  **<h3 align="left">Support Me</h3>**
 
