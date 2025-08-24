@@ -37,7 +37,7 @@
 
 ## My GitHub Breakout Game 🎮
 
-![Breakout](breakout/breakout.svg)
+![Game](output/dark.svg)
 
  **<h3 align="left">Support Me</h3>**
 
