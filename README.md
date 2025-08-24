@@ -31,12 +31,19 @@
 
 **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvnh&theme=dark" alt="anvnh" />
-  </p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvnh&theme=dark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=anvnh&theme=onedark" 
+    alt="GitHub Streak" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=anvnh&layout=compact&langs_count=6&card_width=400&theme=onedark" 
+    alt="Top Langs" 
+    height="180em"
+  />
 </p>
+
 
 ## My GitHub Breakout Game 🎮
 
