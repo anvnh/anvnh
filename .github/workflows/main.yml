@@ -1,9 +1,9 @@
 name: Generate Breakout Game
 
 on:
-  workflow_dispatch:   # cho phép chạy thủ công
+  workflow_dispatch:   
   schedule:
-    - cron: "0 0 * * *" # (tuỳ chọn) chạy mỗi ngày lúc 0h UTC
+    - cron: "0 0 * * *"
 
 jobs:
   breakout:
