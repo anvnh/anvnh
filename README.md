@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Enjoying**
-- 🌱 I'm currently learning: **🇯🇵 Japanese**
+- 💼 I'm currently working on: **Development self note taking app**
+- 🌱 I'm currently learning: **Korean**
 - 💬 Ask me about: **💡 Please don't ask me. Just googling your self**
 - ⚡ Fun fact: **🎢 I'm use Arch btw!**
 
