@@ -37,6 +37,7 @@
     alt="GitHub Streak" 
     height="180em"
   />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvnh&" alt="anvnh" /></p>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=anvnh&layout=compact&langs_count=6&card_width=400&theme=onedark" 
     alt="Top Langs" 
