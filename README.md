@@ -32,12 +32,16 @@
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvnh&theme=onedark" alt="anvnh" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anvnh&layout=compact&langs_count=6&card_width=400&theme=onedark" 
-    alt="Top Langs" 
-    height="180em"
-  />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anvnh&theme=onedark" alt="anvnh" height="180em" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anvnh&layout=compact&langs_count=6&card_width=400&theme=onedark" alt="Top Langs" height="180em" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ![Dark.svg](output/dark.svg)
