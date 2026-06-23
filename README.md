@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **Development self note taking app**
 - 🌱 I'm currently learning: **Korean**
 - 💬 Ask me about: **💡 Please don't ask me. Just googling your self**
-- ⚡ Fun fact: **🎢 I'm use Arch btw!**
+- ⚡ Fun fact: **🎢 I'm use NixOS btw!**
 
  **<h3 align="left">Skills</h3>**
 
